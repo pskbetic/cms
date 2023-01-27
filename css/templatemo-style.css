@@ -372,7 +372,8 @@ color: #ffffff;
     {
 		font-size: 24px;
 		font-weight: bold;
-        padding-bottom: 20px;
+	        padding-top: 40px;
+                padding-bottom: 40px;
 		color: #ffffff;
     }
 #contact .fa
@@ -420,7 +421,7 @@ footer
         background: #394655;
 		border-top: 1px solid #090909;
         text-align: center;
-        padding-top: 140px;
+        padding-top: 40px;
         padding-bottom: 20px;
     }
 footer hr
