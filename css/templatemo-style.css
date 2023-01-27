@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5
 /* end all heading */
 
 /* start all section */
-#work, #about, #portfolio, #contact
+#work, #about, #portfolio, #contact #form
     {
         padding-top: 100px;
         padding-bottom: 120px;
